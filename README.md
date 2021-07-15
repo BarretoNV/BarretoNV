@@ -8,7 +8,7 @@
 - 📫 Instagram: @barretonvilas / E-mail: barretonovaes.vilas@gmail.com
 - ⚡ Fun fact: I can speak portuguese and english, i can undestand spanish and i am learning french at the moment!
 - ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-:brazil:/:portugal:
+:brazil:/🇵🇹
 - 🔭 Atualmente estou aberto para trabalhos!
 - 🌱 Estou aprendendo React.js, com um foco em typescript.
 - 👯 Quero colaborar com projetos e ideias criativas!
