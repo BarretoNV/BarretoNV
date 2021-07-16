@@ -1,7 +1,10 @@
 ![gif header](https://i.ibb.co/4PTwcv5/YQgT.gif)
 # Welcome! / Bem-vindo! / Bienvenue!
-# I am a Computer Engineering student and a junior developer. I love coding and interacting with technology!
-# Sou um estudante de Engenharia de Computação e desenvolvedor Júnior. Amo codar e interagir com tecnologia!
+## I am a Computer Engineering student and a junior developer. I love coding and interacting with technology!
+## Sou um estudante de Engenharia de Computação e desenvolvedor Júnior. Amo codar e interagir com tecnologia!
+
+### I am learning coding since 2017, but i've had others experiences with robotics and technology since 2010.
+### Estou aprendendo programação desde 2017, mas tive outras experiências com robótica e tecnologia desde 2010.
 
 :gb:/:us:
 - 🔭 I’m currently working open for working!
@@ -20,6 +23,7 @@
 - ⚡ Curiosidade: Falo português e inglês, entendo espanhol e atualmente estou estudando francês!
 - ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Technologies that i study/use:
 ## Tecnologias que estudo/uso:
 
 - HTML
@@ -28,7 +32,7 @@
 - JAVASCRIPT/TYPESCRIPT
 - ARDUINO
 
-
+## Get in contact with me!
 ## Entre em contato comigo!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mlg404)](https://github.com/BarretoNV)
