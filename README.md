@@ -42,4 +42,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarretoNV&show_icons=true&theme=radical)
 
-![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
+![me](https://i.ibb.co/JyDy9HD/Z5aE.gif)
