@@ -41,3 +41,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eyervictor@gmail.com)](mailto:barretonovaes.vilas@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarretoNV&show_icons=true&theme=radical)
+
+![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
