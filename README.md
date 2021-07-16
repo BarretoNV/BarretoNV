@@ -23,8 +23,8 @@
 - ⚡ Curiosidade: Falo português e inglês, entendo espanhol e atualmente estou estudando francês!
 - ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Technologies that i study/use:
-## Tecnologias que estudo/uso:
+### Technologies that i study/use:
+### Tecnologias que estudo/uso:
 
 - HTML
 - CSS
@@ -32,8 +32,8 @@
 - JAVASCRIPT/TYPESCRIPT
 - ARDUINO
 
-## Get in contact with me!
-## Entre em contato comigo!
+### Get in contact with me!
+### Entre em contato comigo!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mlg404)](https://github.com/BarretoNV)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/guibarreto)](https://www.linkedin.com/in/guibarreto)
