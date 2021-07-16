@@ -1,5 +1,8 @@
 ![gif header](https://i.ibb.co/4PTwcv5/YQgT.gif)
 # Welcome! / Bem-vindo! / Bienvenue!
+# I am a Computer Engineering student and a junior developer. I love coding and interacting with technology!
+# Sou um estudante de Engenharia de Computação e desenvolvedor Júnior. Amo codar e interagir com tecnologia!
+
 :gb:/:us:
 - 🔭 I’m currently working open for working!
 - 🌱 I’m currently learning React.js with a focus on typescript.
@@ -16,6 +19,15 @@
 - 💬 Me pergunte qualquer coisa!
 - ⚡ Curiosidade: Falo português e inglês, entendo espanhol e atualmente estou estudando francês!
 - ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Tecnologias que estudo/uso:
+
+- HTML
+- CSS
+- C
+- JAVASCRIPT/TYPESCRIPT
+- ARDUINO
+
 
 ## Entre em contato comigo!
 
