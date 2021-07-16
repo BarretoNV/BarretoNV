@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on projects and creative ideas.
 - 🤔 I’m looking for help with oportunities to work and learn even more!
 - 💬 Ask me about anything!
-- ⚡ Fun fact: I can speak portuguese and english, i can undestand spanish and i am learning french at the moment!
+- ⚡ Fun fact: I can speak portuguese and english, i can undestand spanish and i am learning french at the moment! :fr:
 - ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :brazil:/🇵🇹
 - 🔭 Atualmente estou aberto para trabalhos!
@@ -20,7 +20,7 @@
 - 👯 Quero colaborar com projetos e ideias criativas!
 - 🤔 Procuro ajuda com oportunidades para trabalhar e aprender ainda mais!
 - 💬 Me pergunte qualquer coisa!
-- ⚡ Curiosidade: Falo português e inglês, entendo espanhol e atualmente estou estudando francês!
+- ⚡ Curiosidade: Falo português e inglês, entendo espanhol e atualmente estou estudando francês! :fr:
 - ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Technologies that i study/use:
