@@ -20,6 +20,6 @@
 ## Entre em contato comigo!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mlg404)](https://github.com/BarretoNV)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-barreto-79975117a)](https://www.linkedin.com/in/victoreyer)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522988452700&text=Hello!)](https://api.whatsapp.com/send?phone=5522998538279&text=Hello!)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-barreto-79975117a)](https://www.linkedin.com/in/guilherme-barreto-79975117ar)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522988452700&text=Hello!)](https://api.whatsapp.com/send?phone=5522988452700&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eyervictor@gmail.com)](mailto:barretonovaes.vilas@gmail.com)
