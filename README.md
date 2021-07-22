@@ -32,6 +32,8 @@
 - JAVASCRIPT/TYPESCRIPT
 - ARDUINO
 
+https://site-guilherme-barreto.vercel.app/
+
 ### :calling: Get in contact with me!
 ### :calling: Entre em contato comigo!
 
