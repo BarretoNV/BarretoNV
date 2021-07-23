@@ -40,7 +40,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/guibarreto)](https://www.linkedin.com/in/guibarreto)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522988452700&text=Hello!)](https://api.whatsapp.com/send?phone=5522988452700&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:barretonovaes.vilas@gmail.com)](mailto:barretonovaes.vilas@gmail.com)
-[![image](https://i.pinimg.com/originals/1e/06/e1/1e06e107f0ca520aed316957b685ef5c.jpg)](https://site-guilherme-barreto.vercel.app/)
+[![image](https://i.ibb.co/p1fbsM0/React.png)](https://site-guilherme-barreto.vercel.app/)
 
 ### 🌐 Ou visite meu site: https://site-guilherme-barreto.vercel.app/
 
