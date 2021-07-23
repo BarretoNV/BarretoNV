@@ -42,8 +42,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:barretonovaes.vilas@gmail.com)](mailto:barretonovaes.vilas@gmail.com)
 [![image]()
 
-<a href="https://site-guilherme-barreto.vercel.app/"
-  ><img
+<a>
+  <img
     src="https://i.pinimg.com/originals/1e/06/e1/1e06e107f0ca520aed316957b685ef5c.jpg"
     alt=""
     width="200px"
