@@ -41,7 +41,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522988452700&text=Hello!)](https://api.whatsapp.com/send?phone=5522988452700&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:barretonovaes.vilas@gmail.com)](mailto:barretonovaes.vilas@gmail.com)
 
-### 🌐 Ou clique nessa imagem e visite o meu site!!
+### Ou clique nessa imagem e visite o meu site!!
 [![image](https://i.ibb.co/QQz1fcB/Reactlogopequeno.png)](https://site-guilherme-barreto.vercel.app/)
 
 
