@@ -3,6 +3,8 @@
 ## I am a Computer Engineering student and a junior developer. I love coding and interacting with technology!
 ## Sou um estudante de Engenharia de Computação e desenvolvedor Júnior. Amo codar e interagir com tecnologia!
 
+![](https://komarev.com/ghpvc/?username=BarretoNV)
+
 ### I am learning coding since 2017, but i've had others experiences with robotics and technology since 2010.
 ### Estou aprendendo programação desde 2017, mas tive outras experiências com robótica e tecnologia desde 2010.
 
